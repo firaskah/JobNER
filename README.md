@@ -7,7 +7,7 @@ This repository contains code and examples to demonstrate how to extract job ent
 To get started, you can clone this repository to your local machine:
 
 ```
-git clone https://github.com/<username>/<repository-name>.git'
+git clone https://github.com/<username>/<repository-name>.git
 ```
 
 Then, navigate to the cloned directory:
