@@ -10,7 +10,7 @@ To get started, you can clone this repository to your local machine:
 
 Then, navigate to the cloned directory:
 
-'cd JobNER'
+'''cd JobNER'''
 
 ## Installation
 
