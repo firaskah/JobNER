@@ -6,7 +6,9 @@ This repository contains code and examples to demonstrate how to extract job ent
 
 To get started, you can clone this repository to your local machine:
 
-'git clone https://github.com/<username>/<repository-name>.git'
+```
+git clone https://github.com/<username>/<repository-name>.git'
+```
 
 Then, navigate to the cloned directory:
 
@@ -27,8 +29,9 @@ To run the code in this repository, you will need to install the following depen
 
 You can install these dependencies using pip:
 
-'pip install jupyter torch transformers pandas numpy'
-
+```
+pip install jupyter torch transformers pandas numpy
+```
 
 ## Usage
 
